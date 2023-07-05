@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared! <br/><a href="https://github.com/joshmadakor1">IT</a>, <a href="https://www.linkedin.com/in/jared-marquardt-254359130/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jared! <br/><a href="https://github.com/JaredMarquardt">IT</a>, <a href="https://www.linkedin.com/in/jared-marquardt-254359130/">and Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
