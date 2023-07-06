@@ -16,6 +16,3 @@
 [youtube]: https://www.youtube.com/@JaredMarquardt
 [instagram]: https://www.instagram.com/jmarq95
 [linkedin]: https://www.linkedin.com/in/jared-marquardt-254359130/
-
-<!--
-**JaredMarquardt/JaredMarquardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
