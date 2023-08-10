@@ -5,6 +5,12 @@
 - <b>Azure / Cloud Security</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/JaredMarquardt/Azure-SOC)
 
+- <b>Python / File Updates</b>
+  - [Updating a file using Python](https://github.com/JaredMarquardt/Python-algorithm-for-file-updates)
+
+- <b>Linux / File Permissions</b>
+  - [Updating file permissions with Linux CLI](https://github.com/JaredMarquardt/Linux-CLI-File-Permissions)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JaredMarquardt | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
